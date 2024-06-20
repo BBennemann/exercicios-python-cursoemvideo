@@ -1,0 +1,9 @@
+print('\033[0;30mVAI SE FUDE\033[m')  # preto
+print('\033[0;31mVAI SE FUDE\033[m')  # vermelho
+print('\033[0;32mVAI SE FUDE\033[m')  # verde
+print('\033[0;33mVAI SE FUDE\033[m')  # amarelo
+print('\033[0;34mVAI SE FUDE\033[m')  # azul
+print('\033[0;35mVAI SE FUDE\033[m')  # rosa
+print('\033[0;36mVAI SE FUDE\033[m')  # ciano
+print('\033[0;37mVAI SE FUDE\033[m')  # cinza
+print('\033[0;97mVAI SE FUDE\033[m')  # branco
